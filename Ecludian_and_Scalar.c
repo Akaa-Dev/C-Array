@@ -1,7 +1,4 @@
 /***************************************************************************************************************************
-Course Name: Software Construction Lab2
-Exercise: 2
-lecturer: Dr. Rainer Shoenen
 Program Name: Array_functions.c
 Author: Emmanuel Anokwuru
 Short description: This program basically the scalar product and the eucludian distance of vectors, as well as the sum and average of numbers
